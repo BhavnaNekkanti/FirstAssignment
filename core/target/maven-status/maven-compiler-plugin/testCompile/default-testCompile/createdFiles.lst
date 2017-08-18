@@ -1,0 +1,15 @@
+com\capgemini\FirstAssignment_1\general\common\AccessControlSchemaXmlValidationTest.class
+com\capgemini\FirstAssignment_1\general\common\RestTestClientBuilder.class
+com\capgemini\FirstAssignment_1\general\common\PermissionCheckTest.class
+com\capgemini\FirstAssignment_1\general\service\impl\config\RestaurantTestConfig.class
+com\capgemini\FirstAssignment_1\general\common\base\OaspPackageCheckTest.class
+com\capgemini\FirstAssignment_1\general\common\api\security\SecurityRestServiceImplTest.class
+com\capgemini\FirstAssignment_1\general\common\DbTestHelper.class
+com\capgemini\FirstAssignment_1\general\common\TestUtil.class
+com\capgemini\FirstAssignment_1\general\service\impl\config\TestWebSecurityConfig.class
+com\capgemini\FirstAssignment_1\general\common\AbstractSpringBatchIntegrationTest.class
+com\capgemini\FirstAssignment_1\general\common\SecurityTestHelper.class
+com\capgemini\FirstAssignment_1\general\dataaccess\impl\config\BeansJpaConfig.class
+com\capgemini\FirstAssignment_1\general\common\PermissionCheckTest$1.class
+com\capgemini\FirstAssignment_1\general\common\base\AbstractRestServiceTest.class
+com\capgemini\FirstAssignment_1\general\common\api\security\SecurityRestServiceImplTest$StrTup.class
